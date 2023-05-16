@@ -1,3 +1,3 @@
 <main>
-    <h1>Ciaone</h1>
+    <h1>Ciao</h1>
 </main>
